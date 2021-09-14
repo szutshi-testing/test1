@@ -18,7 +18,7 @@ Here is an example wasteboard produced with this template:
 1. Drill holes in the center of the circular edge cuts with a 3/16" drill bit.
 1. Remove the template from the wasteboard.
 
-## How to Use the Wasteboard
+## How to Use the Wasteboard and next steps?
 
 The wasteboard will have loose tolerances, and will move slightly until it is tighened to the CNC bed.  When tightening tapered screws to wood, it will impress a tapered shape into the wood and keep the wood from moving on the CNC bed when in use.
 
