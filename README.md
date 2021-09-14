@@ -10,7 +10,7 @@ Here is an example wasteboard produced with this template:
 
 ![image](https://user-images.githubusercontent.com/820984/121826411-5b95a480-cc6c-11eb-905b-65e3aeb3ab73.png)
 
-## How to Build a Wasteboard
+## How to Build a Wasteboard and next
 
 1. Print the template on US Letter paper.  [A PDF render of the PCB is provided for convenience](https://raw.githubusercontent.com/synthead/wegstr-wasteboard/master/wegstr-wasteboard.pdf).
 1. Cut a piece of scrap wood to the dimensions of the edge cuts in the template.
@@ -18,7 +18,7 @@ Here is an example wasteboard produced with this template:
 1. Drill holes in the center of the circular edge cuts with a 3/16" drill bit.
 1. Remove the template from the wasteboard.
 
-## How to Use the Wasteboard and next steps?
+## How to Use the Wasteboard
 
 The wasteboard will have loose tolerances, and will move slightly until it is tighened to the CNC bed.  When tightening tapered screws to wood, it will impress a tapered shape into the wood and keep the wood from moving on the CNC bed when in use.
 
