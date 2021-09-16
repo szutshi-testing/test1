@@ -1,4 +1,4 @@
-# Wasteboard template for the Wegstr CNC machine - umesh
+# Wasteboard template for the Wegstr CNC machine
 
 This is a KiCad project for building a perfect wasteboard for the Wegstr CNC machine.
 
