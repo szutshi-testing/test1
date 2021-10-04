@@ -11,7 +11,7 @@ Here is a preview of the template:
 Here is an example wasteboard produced with this template:
 
 ![image](https://user-images.githubusercontent.com/820984/121826411-5b95a480-cc6c-11eb-905b-65e3aeb3ab73.png)
-
+jhgfghj
 ## How to Build a Wasteboard
 
 1. Print the template on US Letter paper.  [A PDF render of the PCB is provided for convenience](https://raw.githubusercontent.com/synthead/wegstr-wasteboard/master/wegstr-wasteboard.pdf).
