@@ -1,7 +1,7 @@
 # testing
 
 # Wasteboard template for the Wegstr CNC machine nmnm
-
+jhgfc
 This is a KiCad project for building a perfect wasteboard for the Wegstr CNC machine.
 
 Here is a preview of the template:
