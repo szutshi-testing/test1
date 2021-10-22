@@ -13,7 +13,7 @@ Here is an example wasteboard produced with this template:
 ![image](https://user-images.githubusercontent.com/820984/121826411-5b95a480-cc6c-11eb-905b-65e3aeb3ab73.png)
 
 ## How to Build a Wasteboard
-
+cxcxc
 1. Print the template on US Letter paper.  [A PDF render of the PCB is provided for convenience](https://raw.githubusercontent.com/synthead/wegstr-wasteboard/master/wegstr-wasteboard.pdf).
 1. Cut a piece of scrap wood to the dimensions of the edge cuts in the template.
 1. Tape the template onto the wasteboard using painter's tape (or something with similar adhesion).
