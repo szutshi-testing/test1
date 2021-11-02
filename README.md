@@ -1,6 +1,7 @@
 # testingddsdsd
 
 # How about squashing?
+test file links
 
 # Wasteboard template for the Wegstr CNC machine nmnm
 
