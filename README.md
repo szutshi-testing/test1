@@ -21,7 +21,7 @@ cxcxc
 1. Cut a piece of scrap wood to the dimensions of the edge cuts in the template.
 1. Tape the template onto the wasteboard using painter's tape (or something with similar adhesion).
 1. Drill holes in the center of the circular edge cuts with a 3/16" drill bit.
-1. Remove the template from the wasteboard.
+1. Remove the template from the wasteboard.nmnm
 
 ## How to Use the Wasteboard and next steps?
 
