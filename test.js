@@ -6,3 +6,5 @@ function setLanguageOptions() {
     document.write("<OPTION value=1>"+deflt+"</OPTION>");
     document.write("<OPTION value=2>English</OPTION>");
 }
+
+console.log("hi")
